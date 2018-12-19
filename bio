@@ -1,0 +1,71 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Bio</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {background-color: lightgray;}
+h1 {
+    background-color: black;
+    color: aqua;
+    text-align: center;
+    font-family: arial, sans-serif;
+    border: 3px solid lightblue;
+   }
+
+p {
+   background-color: lightgray;
+   color: black;
+   padding: 8px;
+   font-size: 20px;
+   font-family: arial, sans-serif;
+  }
+a {
+   text-decoration: none;
+  }
+
+footer {
+          background-color: black;
+          text-align: center;
+          color: white;
+          padding: 5px;
+       }
+
+
+</style>
+</head>
+
+<body>
+<h1>BIO</h1>
+	<br>	
+	<img src="sifat.jpg"width="1024" height="999"><br>
+
+<p>Hi there <br> I am MD Shoukat Alam Sifat,a student of United International Univerisity.<br> 
+   I was born in Cumilla.<br>
+   My father's name is MD Shahidul Alam, he is a businessman.<br>
+   My mother's name is Nazmun Nahar and she is a Housewife. <br> 
+   I have two younger sisters who lives with my parents in Cumilla. <br>
+   Now moving on to my educational background,
+   I have completed my SSC from Companigonj Badiul Alam High School and HSC from Cambrian College.<br>
+   I live in Uttara and currently I'm studying BSC in CSE at United International University.
+</p> <br><br> <br>             
+
+
+<div class="page">
+		<div class="container container-fluid">
+			<div class="row">
+				<div class="col-md text-center"><a href="index.html" class="btn btn-outline-warning">Bio</a></div>
+				<div class="col-md text-center"><a href="education.html" class="btn btn-outline-warning">Education</a></div>
+				<div class="col-md text-center"><a href="hobby.html" class="btn btn-outline-warning">Hobbies</a></div>
+				<div class="col-md text-center"><a href="aim.html" class="btn btn-outline-warning">Aim In Life</a></div>
+			</div>
+		</div>
+	</div>
+
+
+
+<footer>MD Shoukat Alam Sifat</footer>
+</body>
+</html>
